@@ -3,8 +3,6 @@
     <td>
       <img src="https://images.steamusercontent.com/ugc/927044661856450912/51BC2A7123DD5F66F9BD0DFB82504218DD15F085/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="DEDFUNKISEC"/>
     </td>
-  
-   <td> 
       <h1>MINHAS REDES</h1>
       <a href="https://www.tiktok.com/@kevin_stdnk" target="_blank">
       <img alt="Tiktok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
@@ -19,6 +17,5 @@
       </ul>
       <p></p><picture>
         <i class="devicon-github-original"></i>-->
-  </td>
   </tr>
 </table>
