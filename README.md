@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://media1.tenor.com/m/DN4JBeneqdkAAAAd/congratulations-evangelion.gif" alt="PARABEINS" width="300" height="300"/>
+      <img src="https://tenor.com/pt-BR/view/rei-rei-plush-chiquita-meme-rei-meme-gif-24170165" alt="GO FUCK YOUSELF" width="300" height="300"/>
     </td>
     <td>
       <p>Aqui você pode colocar as informações que quiser ao lado da imagem.</p>
