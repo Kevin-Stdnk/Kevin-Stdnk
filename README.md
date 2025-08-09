@@ -1,8 +1,9 @@
 <table>
   <tr>
     <td>
-      <img src="https://media.tenor.com/y5KVwUHOv-0AAAAj/rei-rei-plush.gif" alt="GO FUCK YOUSELF" width="300" height="300"/>
+      <img src="https://images.steamusercontent.com/ugc/927044661856450912/51BC2A7123DD5F66F9BD0DFB82504218DD15F085/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="DEDFUNKISEC"/>
     </td>
+  
     <td> 
       <h1>MINHAS REDES</h1>
       <a href="https://www.tiktok.com/@kevin_stdnk" target="_blank">
