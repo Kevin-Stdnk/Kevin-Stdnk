@@ -8,7 +8,7 @@
       <a href="https://www.tiktok.com/@kevin_stdnk" target="_blank">
       <img alt="TIKTOK" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
       </a>
-      <b>
+      <br>
       <a href="https://www.tiktok.com/@kevin_stdnk" target="_blank">
       <img alt="TIKTOK" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
       </a>
