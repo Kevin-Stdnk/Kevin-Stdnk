@@ -10,17 +10,7 @@
         <li>Item 2</li>
       </ul>
       <p>Texto adicional aqui.</p><picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Kevin-Stdnk&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Kevin-Stdnk&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevin-Stdnk&show_icons=true" />
-</picture>
-      
+        <i class="devicon-github-original"></i>
   </td>
   </tr>
 </table>
