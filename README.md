@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.steamusercontent.com/ugc/927044661856450912/51BC2A7123DD5F66F9BD0DFB82504218DD15F085/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="DEDFUNKISEC" width="300" />
+  <img src="https://images.steamusercontent.com/ugc/927044661856450912/51BC2A7123DD5F66F9BD0DFB82504218DD15F085/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="DEDFUNKISEC"/>
 </p>
 
 <h1 align="center">MINHAS REDES</h1>
