@@ -6,7 +6,7 @@
     <td>
       <p>Aqui você pode colocar as informações que quiser ao lado da imagem.</p>
       <ul>
-        <li>Item 1</li>
+        <li>![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)</li>
         <li>Item 2</li>
       </ul>
       <p>Texto adicional aqui.</p><picture>
