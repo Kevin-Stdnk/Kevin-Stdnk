@@ -4,7 +4,7 @@
       <img src="https://media.tenor.com/y5KVwUHOv-0AAAAj/rei-rei-plush.gif" alt="GO FUCK YOUSELF" width="300" height="300"/>
     </td>
     <td>
-      <img scr="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white"/>
+      <img scr="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="TIKTOK"/>
       <p>Aqui você pode colocar as informações que quiser ao lado da imagem.</p>
       <ul>
         <li>Item 2</li>
