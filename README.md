@@ -6,7 +6,7 @@
     <a href="https://www.tiktok.com/@kevin_stdnk" target="_blank" rel="noopener noreferrer" style="margin: 0 5px;">
       <img alt="Tiktok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
     </a>
-    <a href="https://www.instagram.com/kevin_stdck/" target="_blank" rel="noopener noreferrer" style="margin: 1px;">
+    <a href="https://www.instagram.com/kevin_stdck/" target="_blank" rel="noopener noreferrer" style="margin: 0 5px;">
       <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
     </a>
     <a href="https://www.youtube.com/@kallinskk" target="_blank" rel="noopener noreferrer" style="margin: 0 5px;">
