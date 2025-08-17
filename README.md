@@ -17,4 +17,12 @@
   <a href="https://www.youtube.com/@kallinskk" target="_blank" rel="noopener noreferrer">
     <img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
+  <a href="https://steamcommunity.com/id/stadnick" target="_blank" rel="noopener noreferrer">
+    <img alt="Steam" src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" />
+  </a>
+
+
+
+
+  
 </p>
